@@ -10,8 +10,8 @@ I believe in consistency, growth, and creating things that stand out.
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C, C++, Java (learning)  
-- **Libraries & Tools:** NumPy, Pandas, Matplotlib, scikit-learn, Pygame  
+- **Languages:** Python, C  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, scikit-learn, Pygame and more
 - **Concepts:** Data Structures & Algorithms, Machine Learning, OOP  
 - **Other Interests:** Graphic Design, Creative Coding  
 
