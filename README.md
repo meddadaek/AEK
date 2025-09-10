@@ -19,10 +19,6 @@ I believe in consistency, growth, and creating things that stand out.
 
 ## 📌 Pinned Projects
 🌍 [Planet Simulation (Pygame)](link-to-repo)  
-📊 [Linear Regression ML Project](link-to-repo)  
-🧩 [Algorithms & LeetCode Solutions](link-to-repo)  
-🤖 [Future AI Projects](link-to-repo)  
-
 ---
 
 ## 📈 GitHub Stats
